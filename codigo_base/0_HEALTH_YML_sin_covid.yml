@@ -183,7 +183,7 @@ hyperparameter_tuning:
       BOlog: "BO_log.txt"
       BObin: "BO_bin.Rdata"
       tb_importancia: "tb_importancia.txt"
-      tb_importancia_prefix: "impo_"
+      importancia: "impo_"
     ht_script: "03_HT_health.R"
 
   const:

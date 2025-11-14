@@ -76,9 +76,6 @@ cat("  TRAINING STRATEGY - HEALTH ECONOMICS\n")
 cat("================================================================================\n")
 cat("\n")
 
-# Cargar parámetros YAML
-PARAMS <- yaml.load_file("0_HEALTH_YML.yml")
-
 # Establecer directorio base
 setwd(PARAMS$environment$base_dir)
 
