@@ -447,3 +447,4 @@ cat("     (ahora incluye rmse_validate Y rmse_test para comparar)\n")
 cat("  2. modelo_final_lgb.rds\n")
 cat("  3.", PARAMS$hyperparameter_tuning$files$output$tb_importancia, "\n")
 cat("  4. predicciones_presente.csv\n\n")
+

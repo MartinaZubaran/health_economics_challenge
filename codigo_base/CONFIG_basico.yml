@@ -17,10 +17,10 @@
 # ============================================================================
 environment:
   # Directorio base del proyecto (donde están las carpetas codigo_base, dataset, exp)
-  base_dir: "C:/00_dev/00_playground/04_TEACH/UNO/2025/clases/health_economics_challenge"
+  base_dir: "G:/Mi unidad/Especializacion/Aplicaciones de ciencia de datos/Tp final/health_economics_challenge"
 
   # Directorio donde están los datos de entrada
-  data_dir: "./dataset"
+  data_dir: "G:/Mi unidad/Especializacion/Aplicaciones de ciencia de datos/Tp final/health_economics_challenge/dataset"
 
 # ============================================================================
 # SECCIÓN 2: EXPERIMENT - Configuración general del experimento

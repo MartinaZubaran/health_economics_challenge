@@ -639,3 +639,4 @@ cat("  5. Iterar: modificar feature engineering y volver a ejecutar\n\n")
 
 cat("¡Felicitaciones! Has completado el pipeline completo de Machine Learning.\n")
 cat("El modelo está listo para generar predicciones de gasto de bolsillo en salud.\n\n")
+

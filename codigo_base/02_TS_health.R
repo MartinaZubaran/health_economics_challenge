@@ -421,3 +421,4 @@ cat("  -", PARAMS$training_strategy$files$output$train_final,
     "(todos los datos para modelo final)\n\n")
 
 cat("Fin del script. ¡Buena suerte con la optimización!\n")
+
