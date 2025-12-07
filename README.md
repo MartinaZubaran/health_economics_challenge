@@ -3,7 +3,7 @@
 **Universidad Nacional del Oeste (UNO) - 2025**  
 **Materia:** Aplicaciones en Ciencia de Datos  
 **Modalidad:** Trabajo en grupos de 3 personas
-
+# Esto lo pongo como ejemplo
 ---
 
 ## 📋 Índice
